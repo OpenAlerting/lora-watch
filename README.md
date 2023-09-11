@@ -3,6 +3,10 @@
 ### This watch can send lora message to lora gateway
 #### Can vibrate and emit sound with piezo and 60mah battery
 
+## PCB
+
+![finish view](views/pcb.jpg)
+
 ## PCB IN BOX
 ![pcb in box view](views/with-pcb.PNG)
 
